@@ -1,0 +1,50 @@
+.contact{
+    width: 550px;
+    height: 250px;
+    background: blueviolet;
+    margin: auto;
+    text-align: center;
+    padding-top: 90px;
+}
+
+.data{
+    /* background: chartreuse; */
+    width: 550px;
+    height: 250px;
+    margin: auto;
+    margin-top: 50px;
+}
+.info{
+    /* display: inline-block; */
+    float: left;
+}
+
+.entery{
+    float: left;
+    margin-top: 30px;
+
+    
+}
+.entery input{ margin-top: 10px;}
+.message{
+    float: right;
+    width: 30%;
+
+}
+
+
+iframe{
+    width: 550px;
+    height: 250px;
+    /* margin: 30 px auto; */
+    
+    margin: 40px auto auto 25%;
+    
+    
+}
+
+.footer{
+    margin: 50px;
+    text-align: center;
+
+}
